@@ -55,7 +55,15 @@ Building a comprehensive collection of enterprise-grade Salesforce Flow solution
 
 ➡️ **Flows**
 
-Enterprise Salesforce Flow Architecture Repository with Lucid diagrams, solution designs, best practices, and interview-ready documentation.
+🚀 **Featured Repository**
+
+[Salesforce Flow Architect Masterclass](https://github.com/sfdcanil/Flows)
+
+Enterprise Salesforce Flow Architecture Repository with:
+- Lucid Diagrams
+- Solution Designs
+- Best Practices
+- Interview Questions
 
 ---
 

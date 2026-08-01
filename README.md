@@ -10,7 +10,7 @@ I have 12+ years of experience in Information Technology, specializing in Salesf
 
 ## 🚀 Featured Project
 
-### Salesforce Flow Architect Masterclass
+### 🚀 Salesforce Flow Architect Masterclass
 
 Building a comprehensive collection of enterprise-grade Salesforce Flow solutions.
 
@@ -59,18 +59,23 @@ Building a comprehensive collection of enterprise-grade Salesforce Flow solution
 
 [Salesforce Flow Architect Masterclass](https://github.com/sfdcanil/Flows)
 
-Enterprise Salesforce Flow Architecture Repository with:
-- Lucid Diagrams
-- Solution Designs
-- Best Practices
-- Interview Questions
+Enterprise-grade Salesforce Flow Architecture Repository featuring:
+- Lucid Architecture Diagrams
+- End-to-End Solution Designs
+- Salesforce Flow Builder Implementations
+- Enterprise Best Practices
+- Production Support Scenarios
+- Interview Questions & Answers
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn :https://www.linkedin.com/in/anil-kumar-reddy-maramreddy-5812123a/
 - ⭐ GitHub
+   https://github.com/sfdcanil
+
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/anil-kumar-reddy-maramreddy-5812123a/)
+
 
 <!--
 **sfdcanil/sfdcanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

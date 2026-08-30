@@ -68,6 +68,6 @@ Enterprise-grade Salesforce Flow Architecture Repository featuring:
 
 💼 LinkedIn: https://www.linkedin.com/in/anil-kumar-reddy-maramreddy-5812123a/
 
-⭐ GitHub: https://github.com/sfdcanil/Flows
+⭐ GitHub: https://github.com/sfdcanil
 
 ---
